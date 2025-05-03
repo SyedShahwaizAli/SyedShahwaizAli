@@ -24,6 +24,8 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedShahwaizAli&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedShahwaizAli&layout=pie)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SyedShahwaizAli)
+
 
 ### 🛠️ Languages and Tools
 
