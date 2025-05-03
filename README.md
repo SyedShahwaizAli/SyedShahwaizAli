@@ -23,6 +23,8 @@
 - 🏆 I love solving coding puzzles and challenges—nothing beats the thrill of cracking a tough problem!
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedShahwaizAli&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedShahwaizAli&layout=pie)
+
 ### 🛠️ Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
