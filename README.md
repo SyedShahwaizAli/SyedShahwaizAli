@@ -22,7 +22,7 @@
 ## 🌟 Fun Fact
 - 🏆 I love solving coding puzzles and challenges—nothing beats the thrill of cracking a tough problem!
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedShahwaizAli&show_icons=true)
 ### 🛠️ Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
